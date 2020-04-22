@@ -1,6 +1,7 @@
 #include "stdio.h"
 #include "string.h"
 
+//linklist note
 
 #define length_default 100
 
