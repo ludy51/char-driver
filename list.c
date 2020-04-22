@@ -2,6 +2,7 @@
 #include "string.h"
 
 //linklist note
+//next is code section
 
 #define length_default 100
 
